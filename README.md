@@ -1,0 +1,2 @@
+# TechSoC
+IITI TechSoC
